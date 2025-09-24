@@ -39,7 +39,8 @@ The dataset is organized into species and class specific folders, with an additi
      │   ├── C/   # Captive
      │   ├── E/   # Escaped
      │   └── W/   # Wild
-     └── test/              # Images from fish markets and fishmongers
+     └── test/              # Images from fish markets
+         ├── Market.csv     # Labels
 ```
 ## 🔎 Preview
 
