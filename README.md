@@ -53,9 +53,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 
 ## 🤝 Acknowledgments
 
-This work was funded by the Spanish State Research Agency (AEI) through grants **PID2023-149562OB-I00** and **PID2023-152804OB-I00**, awarded by **MCIN/AEI/10.13039/501100011033**, and financed by the Government of the Valencian Community (Generalitat Valenciana).
+The study was funded by the project “GLObal change Resilience in Aquaculture-TOOls for Long-term Sustainability (GLORiA-TOOLS),” supported by the Biodiversity Foundation of the Spanish Ministry for the Ecological Transition and Demographic Challenge through the Pleamar Program and co-financed by the European Maritime, Fisheries and Aquaculture Fund (EMFAF).
 
-Project context: [Tech4Diet](https://github.com/Tech4DLab).
+Project context: [GLORiA]([https://github.com/Tech4DLab](https://github.com/Tech4DLab/GLORIA)).
 
 ## 📬 Contact
 
