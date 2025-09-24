@@ -61,11 +61,11 @@ Project context: [Tech4Diet](https://github.com/Tech4DLab).
 
 | Name | Role | GitHub | Contact | Contact | 
 |------|------|--------|---------|---------|
-| [Mario Jerez Tallón](https://github.com/Mariojt72) | Author | @Mariojt72 | mario.jerez@ua.es | Department of Computer Technology and Computing
-| [Ismael Beviá Ballesteros](https://github.com/ibevias) | Co-authors | @ibevias | ismael.bevias@ua.es | Department of Computer Technology and Computing
-| Dr. Kilian Toledo-Guedes | Project Lead / PI | – | ktoledo@ua.es | Department of Marine Sciences and Applied Biology
-| Jaime Fernandez del Campo | Data curation | – | jaime.fdezdelcampo@ua.es | Department of Marine Sciences and Applied Biology
-| David Pitarch Font | Data curation | – | david.pitarch@ua.es | Department of Marine Sciences and Applied Biology
-| [Dr. Nahuel Emiliano Garcia d'Urso](https://github.com/nawue) | Co-authors | @nawue | nahuel.garcia@ua.es | Department of Computer Technology and Computing
-| Dr. Andrés Fuster Guilló | Project Lead / PI | – | fuster@ua.es | Department of Computer Technology and Computing
-| Dr. Jorge Azorín López | Project Lead / PI | – | jazorin@ua.es | Department of Computer Technology and Computing
+| [Mario Jerez Tallón](https://github.com/Mariojt72) | Author | @Mariojt72 | mario.jerez@ua.es | Computer Technology and Computing
+| [Ismael Beviá Ballesteros](https://github.com/ibevias) | Co-authors | @ibevias | ismael.bevias@ua.es | Computer Technology and Computing
+| Dr. Kilian Toledo-Guedes | Project Lead / PI | – | ktoledo@ua.es | Marine Sciences and Applied Biology
+| Jaime Fernandez del Campo | Data curation | – | jaime.fdezdelcampo@ua.es | Marine Sciences and Applied Biology
+| David Pitarch Font | Data curation | – | david.pitarch@ua.es | Marine Sciences and Applied Biology
+| [Dr. Nahuel Emiliano Garcia d'Urso](https://github.com/nawue) | Co-authors | @nawue | nahuel.garcia@ua.es | Computer Technology and Computing
+| Dr. Andrés Fuster Guilló | Project Lead / PI | – | fuster@ua.es | Computer Technology and Computing
+| Dr. Jorge Azorín López | Project Lead / PI | – | jazorin@ua.es | Computer Technology and Computing
