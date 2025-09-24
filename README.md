@@ -59,13 +59,13 @@ Project context: [Tech4Diet](https://github.com/Tech4DLab).
 
 ## 📬 Contact
 
-| Name | Role | GitHub | Contact | Contact | 
+| Name | Role | GitHub | Contact | Deparment | 
 |------|------|--------|---------|---------|
-| [Mario Jerez Tallón](https://github.com/Mariojt72) | Author | @Mariojt72 | mario.jerez@ua.es | Computer Technology and Computing
-| [Ismael Beviá Ballesteros](https://github.com/ibevias) | Co-authors | @ibevias | ismael.bevias@ua.es | Computer Technology and Computing
-| Dr. Kilian Toledo-Guedes | PI | – | ktoledo@ua.es | Marine Sciences and Applied Biology
-| Jaime Fernandez del Campo | Data curation | – | jaime.fdezdelcampo@ua.es | Marine Sciences and Applied Biology
-| David Pitarch Font | Data curation | – | david.pitarch@ua.es | Marine Sciences and Applied Biology
-| [Dr. Nahuel Emiliano Garcia d'Urso](https://github.com/nawue) | Co-authors | @nawue | nahuel.garcia@ua.es | Computer Technology and Computing
-| Dr. Andrés Fuster Guilló | PI | – | fuster@ua.es | Computer Technology and Computing
-| Dr. Jorge Azorín López | PI | – | jazorin@ua.es | Computer Technology and Computing
+| [Mario Jerez Tallón](https://github.com/Mariojt72) | Author | @Mariojt72 | mario.jerez@ua.es | Computer Technology
+| [Ismael Beviá Ballesteros](https://github.com/ibevias) | Co-authors | @ibevias | ismael.bevias@ua.es | Computer Technology
+| Dr. Kilian Toledo-Guedes | PI | – | ktoledo@ua.es | Marine Sciences
+| Jaime Fernandez del Campo | Data curation | – | jaime.fdezdelcampo@ua.es | Marine Sciences
+| David Pitarch Font | Data curation | – | david.pitarch@ua.es | Marine Sciences
+| [Dr. Nahuel Emiliano Garcia d'Urso](https://github.com/nawue) | Co-authors | @nawue | nahuel.garcia@ua.es | Computer Technology
+| Dr. Andrés Fuster Guilló | PI | – | fuster@ua.es | Computer Technology
+| Dr. Jorge Azorín López | PI | – | jazorin@ua.es | Computer Technology
