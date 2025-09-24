@@ -12,13 +12,9 @@ Each specimen is categorized into three groups based on its provenance:
 - **E** → Escaped (individuals that escaped from farms into the wild)  
 - **W** → Wild  
 
-The dataset is organized in species- and class-specific folders and also includes **processed and augmented versions** for use in computer vision tasks such as automatic classification, deep learning experiments, and comparative studies between wild and farmed fish.  
-
----
-
+The dataset is organized into species and class specific folders, with an additional test set containing images from fish markets and also includes processed and augmented versions. It can be used in computer vision tasks such as automatic classification, deep learning experiments and comparative studies between wild and farmed fish.  
+ 
 ## ✨ Main Goals
-- Provide an open resource for research on **fish classification**.  
-- Enable the study of morphological differences between **wild, farmed, and escaped fish**.  
-- Contribute to projects on **AI for aquaculture and sustainability**.  
-
----
+- Provide an open resource for research on fish origin classification.  
+- Enable the study of morphological differences between wild, farmed and escaped fish.  
+- Contribute to projects on AI for aquaculture and sustainability.  
