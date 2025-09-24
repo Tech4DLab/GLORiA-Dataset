@@ -1,4 +1,4 @@
-<img width="793" height="566" alt="image" src="https://github.com/user-attachments/assets/77256657-411a-4e7a-80c0-f8b6f9ec3dfb" /># 🐟 GLORiA Dataset – Fish and Their Origins 
+# 🐟 GLORiA Dataset – Fish and Their Origins 
 
 ## 👀 Overview
 
