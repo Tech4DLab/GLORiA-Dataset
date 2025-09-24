@@ -44,6 +44,13 @@ The dataset is organized into species and class specific folders, with an additi
 ```
 ## 🔎 Preview
 
+The GLORiA Dataset contains a diverse collection of images across three fish species and their origin categories (Captive, Escaped, Wild). The bar chart below shows the distribution of images per class, while the sample images provide a visual overview of the dataset. 
+
+![Description](Images/preview.png)
+
+| <img src="Images/1.png" width="320"> | <img src="Images/2.png" width="130"> | <img src="Images/3.png" width="420"> |
+| <img src="Images/4.png" width="320"> | <img src="Images/5.png" width="130"> | <img src="Images/6.png" width="420"> |
+
 ## 🔗 Citation
 
 If you use this dataset in your research, please cite:
