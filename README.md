@@ -25,7 +25,7 @@ The dataset is organized into species and class specific folders, with an additi
 ```
 .
 ├── README.md            # This file
-├── LICENSE              # MIT License (or project-specific)
+├── LICENSE              # MIT License
 ├── data/                # Folder that contains all the images included in the GLORiA Dataset
      ├── A_regius/
      │   ├── C/   # Captive
