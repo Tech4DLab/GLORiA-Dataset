@@ -1,4 +1,4 @@
-# 🐟 GLORiA Dataset – Fish and Their Origins 
+<img width="793" height="566" alt="image" src="https://github.com/user-attachments/assets/77256657-411a-4e7a-80c0-f8b6f9ec3dfb" /># 🐟 GLORiA Dataset – Fish and Their Origins 
 
 ## 👀 Overview
 
@@ -44,9 +44,14 @@ The dataset is organized into species and class specific folders, with an additi
 ```
 ## 🔎 Preview
 
-The GLORiA Dataset contains a diverse collection of images across three fish species and their origin categories. The bar chart below shows the distribution of images per class, while the sample images provide a visual overview of the dataset. 
+The following table summarizes the number of images per*species and origin category in the GLORiA Dataset:  
 
-![Description](Images/preview.png)
+| Origin Category | A. regius (*meagre*) | D. labrax (*European seabass*) | S. aurata (*gilthead seabream*) | **Total** |
+|-----------------|-----------------------|--------------------------------|---------------------------------|-----------|
+| **Wild**        | 0                     | 724                            | 2,455                           | 3,179     |
+| **Escaped**     | 619                   | 866                            | 193                             | 1,678     |
+| **Cultivated**  | 389                   | 1,154                          | 1,484                           | 3,027     |
+| **Total**       | **1,008**             | **2,744**                      | **4,132**                       | **7,884** |
 
 | <img src="Images/1.png" width="320"> | <img src="Images/2.png" width="130"> | <img src="Images/3.png" width="420"> |
 | <img src="Images/4.png" width="320"> | <img src="Images/5.png" width="130"> | <img src="Images/6.png" width="420"> |
