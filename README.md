@@ -41,3 +41,31 @@ The dataset is organized into species and class specific folders, with an additi
      │   └── W/   # Wild
      └── test/              # Images from fish markets and fishmongers
 ```
+## 🔎 Preview
+
+## 🔗 Citation
+
+If you use this dataset in your research, please cite:
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
+## 🤝 Acknowledgments
+
+This work was funded by the Spanish State Research Agency (AEI) through grants **PID2023-149562OB-I00** and **PID2023-152804OB-I00**, awarded by **MCIN/AEI/10.13039/501100011033**, and financed by the Government of the Valencian Community (Generalitat Valenciana).
+
+Project context: [Tech4Diet](https://github.com/Tech4DLab).
+
+## 📬 Contact
+
+| Name | Role | GitHub | Contact | Contact | 
+|------|------|--------|---------|---------|
+| [Mario Jerez Tallón](https://github.com/Mariojt72) | Author | @Mariojt72 | mario.jerez@ua.es | Department of Computer Technology and Computing
+| [Ismael Beviá Ballesteros](https://github.com/ibevias) | Co-authors | @ibevias | ismael.bevias@ua.es | Department of Computer Technology and Computing
+| Dr. Kilian Toledo-Guedes | Project Lead / PI | – | ktoledo@ua.es | Department of Marine Sciences and Applied Biology
+| Jaime Fernandez del Campo | Data Collection / Annotation / Validation | – | jaime.fdezdelcampo@ua.es | Department of Marine Sciences and Applied Biology
+| David Pitarch Font | Data Collection / Annotation / Validation | – | david.pitarch@ua.es | Department of Marine Sciences and Applied Biology
+| [Dr. Nahuel Emiliano Garcia d'Urso](https://github.com/nawue) | Co-authors | @nawue | nahuel.garcia@ua.es | Department of Computer Technology and Computing
+| Dr. Andrés Fuster Guilló | Project Lead / PI | – | fuster@ua.es | Department of Computer Technology and Computing
+| Dr. Jorge Azorín López | Project Lead / PI | – | jazorin@ua.es | Department of Computer Technology and Computing
