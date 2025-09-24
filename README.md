@@ -4,9 +4,9 @@
 
 The **GLORiA Dataset** is an image collection designed for the study and classification of fish according to their origin. It includes images of three highly relevant species in aquaculture and fisheries:  
 
-- **Argyrosomus regius** (*meagre*)  
+- **Argyrosomus regius** (*Meagre*)  
 - **Dicentrarchus labrax** (*European seabass*)  
-- **Sparus aurata** (*gilthead seabream*)  
+- **Sparus aurata** (*Gilthead seabream*)  
 
 Each specimen is categorized into three groups based on its provenance:  
 
