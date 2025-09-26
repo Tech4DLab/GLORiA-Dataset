@@ -1,4 +1,4 @@
-# 🐟 GLORiA Dataset – Fish and Their Origins 
+# 🐟 GLORiA Dataset – Fish && Origins 
 
 ## 👀 Overview
 
