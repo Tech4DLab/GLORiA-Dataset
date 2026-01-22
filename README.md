@@ -44,7 +44,7 @@ The dataset is organized into species and class specific folders, with an additi
 ```
 ## 🔎 Preview
 
-The following table summarizes the number of images per*species and origin category in the GLORiA Dataset:  
+The following table summarizes the number of images per species and origin category in the GLORiA Dataset:  
 
 | Origin Category | A. regius (*meagre*) | D. labrax (*European seabass*) | S. aurata (*gilthead seabream*) | **Total** |
 |-----------------|-----------------------|--------------------------------|---------------------------------|-----------|
