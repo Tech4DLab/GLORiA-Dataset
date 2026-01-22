@@ -57,9 +57,9 @@ The following table summarizes the number of images per*species and origin categ
 <summary><strong>📸 View image samples</strong></summary>
 
 <p align="center">
-  <img src="Images/AR087 (2)_E.JPG" width="320">
+  <img src="Images/AR087 (2)_E.JPG" width="420">
   <img src="Images/DL13_S.jpeg" width="320">
-  <img src="Images/DL209 (16)_E.jpg" width="320">
+  <img src="Images/DL209 (16)_E.jpg" width="220">
 </p>
 
 <p align="center">
