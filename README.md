@@ -26,7 +26,7 @@ The dataset is organized into species and class specific folders, with an additi
 .
 ├── README.md            # This file
 ├── LICENSE              # MIT License
-├── data/                # Folder that contains all the images included in the GLORiA Dataset
+├── data/                # Zenodo Link
      ├── A_regius/
      │   ├── C/   # Captive
      │   ├── E/   # Escaped
@@ -39,8 +39,8 @@ The dataset is organized into species and class specific folders, with an additi
      │   ├── C/   # Captive
      │   ├── E/   # Escaped
      │   └── W/   # Wild
-     └── test/              # Images from fish markets
-         ├── Market.csv     # Labels
+     └── Market/              # Images from fish markets
+         └── Market.csv     # Labels
 ```
 ## 🔎 Preview
 
