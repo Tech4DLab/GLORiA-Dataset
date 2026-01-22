@@ -26,7 +26,7 @@ The dataset is organized into species and class specific folders, with an additi
 .
 ├── README.md            # This file
 ├── LICENSE              # MIT License
-├── data/                # Zenodo Link
+├── Zenodo                # Zenodo Link
      ├── A_regius/
      │   ├── C/   # Captive
      │   ├── E/   # Escaped
