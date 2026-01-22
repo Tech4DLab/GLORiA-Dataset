@@ -48,10 +48,10 @@ The following table summarizes the number of images per*species and origin categ
 
 | Origin Category | A. regius (*meagre*) | D. labrax (*European seabass*) | S. aurata (*gilthead seabream*) | **Total** |
 |-----------------|-----------------------|--------------------------------|---------------------------------|-----------|
-| **Wild**        | 0                     | 724                            | 2,455                           | 3,179     |
-| **Escaped**     | 619                   | 866                            | 193                             | 1,678     |
-| **Cultivated**  | 389                   | 1,154                          | 1,484                           | 3,027     |
-| **Total**       | **1,008**             | **2,744**                      | **4,132**                       | **7,884** |
+| **Wild**        | 0                     | 988                            | 2,629                           | 3,617     |
+| **Escaped**     | 620                   | 867                            | 355                             | 1,842     |
+| **Cultivated**  | 767                   | 1,438                          | 1,857                           | 4,062     |
+| **Total**       | **1,387**             | **3,293**                      | **4,841**                       | **9,521** |
 
 <details>
 <summary><strong>📸 View image samples</strong></summary>
