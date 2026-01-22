@@ -53,8 +53,8 @@ The following table summarizes the number of images per*species and origin categ
 | **Cultivated**  | 389                   | 1,154                          | 1,484                           | 3,027     |
 | **Total**       | **1,008**             | **2,744**                      | **4,132**                       | **7,884** |
 
-| <img src="Images/AR087 (2)_E.JPG" width="320"> | <img src="Images/DL13_S.jpeg" width="130"> | <img src="Images/DL209 (16)_E.jpg" width="420"> |
-| <img src="Images/SA209 (6)_E.JPG" width="320"> | <img src="Images/SA210_C.jpeg" width="130"> | <img src="Images/SA216 (12)_E.jpg" width="420"> |
+| <img src="Images/AR087 (2)_E.JPG" width="320"> | <img src="Images/DL13_S.jpeg" width="320"> | <img src="Images/DL209 (16)_E.jpg" width="320"> |
+| <img src="Images/SA209 (6)_E.JPG" width="320"> | <img src="Images/SA210_C.jpeg" width="320"> | <img src="Images/SA216 (12)_E.jpg" width="320"> |
 
 ## 🔗 Citation
 
