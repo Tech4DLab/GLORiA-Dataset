@@ -54,7 +54,7 @@ The following table summarizes the number of images per*species and origin categ
 | **Total**       | **1,008**             | **2,744**                      | **4,132**                       | **7,884** |
 
 <details>
-<summary><strong>📸 Ver imágenes (click para desplegar)</strong></summary>
+<summary><strong>📸 View image samples</strong></summary>
 
 <p align="center">
   <img src="Images/AR087 (2)_E.JPG" width="320">
