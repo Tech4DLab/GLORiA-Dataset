@@ -24,21 +24,21 @@ The dataset is organized into species and class specific folders, with an additi
 ## 🗂️ Repository Structure
 ```
 .
-├── README.md            # This file
+├── README.md            # Project documentation
 ├── LICENSE              # MIT License
-├── Zenodo                # Zenodo Link
-     ├── A_regius/
-     │   ├── C/   # Captive
-     │   └── E/   # Escaped
-     ├── D_labrax/
-     │   ├── C/   # Captive
-     │   ├── E/   # Escaped
-     │   └── W/   # Wild
-     ├── S_aurata/
-     │   ├── C/   # Captive
-     │   ├── E/   # Escaped
-     │   └── W/   # Wild
-     └── Market/              # Images from fish markets
+├── Images               # Sample images and visual references
+├── Segmentation
+│   ├── model.tflite     # MediaPipe segmentation model
+│   ├── auto_seg.py      # Automatic image segmentation script
+│   └── seg_fold.py      # Batch segmentation over folder structure
+└── Crop
+    ├── color.py         # Gray-based color detection and cropping
+    ├── color2.py        # Alternative color-based cropping strategy
+    ├── resize.py        # Image resizing utilities (e.g., 224×224)
+    └── crop.py          # Automated cropping based on detected regions
+
+
+    
 ```
 ## 🔎 Preview
 
