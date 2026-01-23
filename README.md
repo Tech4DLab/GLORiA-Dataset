@@ -29,8 +29,7 @@ The dataset is organized into species and class specific folders, with an additi
 ├── Zenodo                # Zenodo Link
      ├── A_regius/
      │   ├── C/   # Captive
-     │   ├── E/   # Escaped
-     │   └── W/   # Wild
+     │   └── E/   # Escaped
      ├── D_labrax/
      │   ├── C/   # Captive
      │   ├── E/   # Escaped
@@ -40,7 +39,6 @@ The dataset is organized into species and class specific folders, with an additi
      │   ├── E/   # Escaped
      │   └── W/   # Wild
      └── Market/              # Images from fish markets
-         └── Market.csv     # Labels
 ```
 ## 🔎 Preview
 
