@@ -1,6 +1,6 @@
 # 🐟 GLORiA Dataset – Fish && Origins 
 
-Zenodo -> 
+Zenodo -> 10.5281/zenodo.7082807
 
 ## 👀 Overview
 
