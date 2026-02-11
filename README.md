@@ -55,14 +55,18 @@ The following table summarizes the number of images per species and origin categ
 
 <details>
 <summary><strong>📸 View image samples</strong></summary>
+
 <p align="center">
-  <img src="Images/Example01-GG_068_02.jpg" width="305">
-  <img src="Images/Example02-LN_046_01.jpg" width="400">
+  <img src="Images/AR087 (2)_E.JPG" width="400">
+  <img src="Images/DL13_S.jpeg" width="305">
 </p>
 <p align="center">
-  <img src="Images/Example03-MM_069_01.jpg" width="300">
-  <img src="Images/Example04-MM_063_01.jpg" width="300">
-  <img src="Images/Example05-SC_447_01.jpg" width="400"
+  <img src="Images/DL209 (16)_E.jpg" width="300">
+  <img src="Images/SA209 (6)_E.JPG" width="300">
+</p>
+<p align="center">
+  <img src="Images/SA210_C.jpeg" width="320">
+  <img src="Images/SA216 (12)_E.jpg" width="305">
 </p>
 
 </details>
