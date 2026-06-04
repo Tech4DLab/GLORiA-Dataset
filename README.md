@@ -1,6 +1,8 @@
 # 🐟 GLORiA Dataset – Fish && Origins 
 
-Zenodo -> [GLORiA Dataset](10.5281/zenodo.7082807)
+[![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blue)](https://doi.org/10.5281/zenodo.20540572)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-yellow.svg)](https://www.python.org/)
 
 ## 👀 Overview
 
@@ -17,6 +19,12 @@ Each specimen is categorized into three groups based on its provenance:
 - **W** → Wild  
 
 The dataset is organized into species and class specific folders, with an additional test set containing images from fish markets and also includes processed and augmented versions. It can be used in computer vision tasks such as automatic classification, deep learning experiments and comparative studies between wild and farmed fish.  
+
+The complete dataset is available on Zenodo:
+
+> **GLORiA Dataset:** https://doi.org/10.5281/zenodo.20540572
+
+This GitHub repository provides the code used to preprocess, crop, resize, segment, and organize the images included in the dataset.
  
 ## 🎯 Key Features
 - Provide an open resource for research on fish origin classification.  
@@ -42,16 +50,16 @@ The dataset is organized into species and class specific folders, with an additi
 
     
 ```
-## 🔎 Preview
+## 📊 Dataset Summary
 
-The following table summarizes the number of images per species and origin category in the GLORiA Dataset:  
+The main laboratory subset contains **9,511 images** from three fish species.
 
-| Origin Category | A. regius (*meagre*) | D. labrax (*European seabass*) | S. aurata (*gilthead seabream*) | **Total** |
-|-----------------|-----------------------|--------------------------------|---------------------------------|-----------|
-| **Wild**        | 0                     | 988                            | 2,629                           | 3,617     |
-| **Escaped**     | 620                   | 867                            | 355                             | 1,842     |
-| **Cultivated**  | 767                   | 1,438                          | 1,857                           | 4,062     |
-| **Total**       | **1,387**             | **3,293**                      | **4,841**                       | **9,521** |
+| Origin Category | *A. regius* | *D. labrax* | *S. aurata* | Total |
+|---|---:|---:|---:|---:|
+| Wild / `S` | 0 | 988 | 2,627 | 3,615 |
+| Escaped / `E` | 620 | 866 | 355 | 1,841 |
+| Captive / `C` | 767 | 1,432 | 1,856 | 4,055 |
+| **Total** | **1,387** | **3,286** | **4,838** | **9,511** |
 
 <details>
 <summary><strong>📸 View image samples</strong></summary>
@@ -70,6 +78,150 @@ The following table summarizes the number of images per species and origin categ
 </p>
 
 </details>
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Tech4DLab/GLORiA-Dataset.git
+cd GLORiA-Dataset
+```
+
+Create a Python environment:
+
+```bash
+python -m venv gloria_env
+```
+
+Activate it:
+
+```bash
+# Linux / macOS
+source gloria_env/bin/activate
+
+# Windows
+gloria_env\Scripts\activate
+```
+
+Install the basic dependencies:
+
+```bash
+pip install opencv-python pillow numpy mediapipe
+```
+
+Depending on the segmentation workflow used, additional dependencies may be required.
+
+---
+
+## 🚀 Usage
+
+### 1. Resize images to 224 × 224
+
+The script `Crop/resize.py` resizes images to 224 × 224 pixels and stores them in an output folder.
+
+By default, the script processes images from the current folder and saves the resized images in:
+
+```text
+./copia_224/
+```
+
+Example:
+
+```bash
+cd Crop
+python resize.py
+```
+
+Recommended workflow:
+
+```text
+input_images/
+├── image_1.jpg
+├── image_2.jpg
+└── image_3.jpg
+```
+
+Expected output:
+
+```text
+input_images/
+└── copia_224/
+    ├── image_1.jpg
+    ├── image_2.jpg
+    └── image_3.jpg
+```
+
+---
+
+### 2. Center crop and resize images
+
+The script `Crop/crop.py` performs a center crop and creates two output folders:
+
+```text
+Copia_HD/
+Copia_224/
+```
+
+Example:
+
+```bash
+python Crop/crop.py image_1.jpg image_2.jpg image_3.jpg
+```
+
+Expected outputs:
+
+```text
+Copia_HD/    # Cropped high-resolution copies
+Copia_224/   # Cropped and resized 224 × 224 copies
+```
+
+> **Important:** Some preprocessing scripts may overwrite or modify input images during execution. We strongly recommend working on a copy of the original dataset.
+
+---
+
+### 3. Automatic segmentation
+
+The `Segmentation/` folder contains scripts for applying automatic segmentation to fish images.
+
+General workflow:
+
+```bash
+cd Segmentation
+python auto_seg.py
+```
+
+The segmentation process uses the available model files and produces masks or processed images depending on the script configuration.
+
+Before running the segmentation scripts, check that:
+
+- the input images are in the expected folder,
+- `model.tflite` is available,
+- the required dependencies are installed,
+- the output folder has write permissions.
+
+---
+
+### 4. Batch processing over folders
+
+For large datasets organized by species and origin category, use the folder-based scripts to apply preprocessing over multiple subfolders.
+
+Recommended input structure:
+
+```text
+Dataset/
+├── A. regius/
+│   ├── C/
+│   └── E/
+├── D. labrax/
+│   ├── C/
+│   ├── E/
+│   └── S/
+└── S. aurata/
+    ├── C/
+    ├── E/
+    └── S/
+```
 
 ## 🔗 Citation
 
