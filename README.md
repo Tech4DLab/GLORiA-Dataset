@@ -123,7 +123,7 @@ The script `Crop/resize.py` resizes images to 224 × 224 pixels and stores them 
 By default, the script processes images from the current folder and saves the resized images in:
 
 ```text
-./copia_224/
+./copy_224/
 ```
 
 Example:
@@ -146,7 +146,7 @@ Expected output:
 
 ```text
 input_images/
-└── copia_224/
+└── copy_224/
     ├── image_1.jpg
     ├── image_2.jpg
     └── image_3.jpg
@@ -159,8 +159,8 @@ input_images/
 The script `Crop/crop.py` performs a center crop and creates two output folders:
 
 ```text
-Copia_HD/
-Copia_224/
+Copy_HD/
+Copy_224/
 ```
 
 Example:
@@ -172,8 +172,8 @@ python Crop/crop.py image_1.jpg image_2.jpg image_3.jpg
 Expected outputs:
 
 ```text
-Copia_HD/    # Cropped high-resolution copies
-Copia_224/   # Cropped and resized 224 × 224 copies
+Copy_HD/    # Cropped high-resolution copies
+Copy_224/   # Cropped and resized 224 × 224 copies
 ```
 
 > **Important:** Some preprocessing scripts may overwrite or modify input images during execution. We strongly recommend working on a copy of the original dataset.
