@@ -16,7 +16,7 @@ Each specimen is categorized into three groups based on its provenance:
 
 - **C** → Captive (aquaculture)  
 - **E** → Escaped (individuals that escaped from farms)  
-- **W** → Wild  
+- **S** → Wild  
 
 The dataset is organized into species and class specific folders, with an additional test set containing images from fish markets and also includes processed and augmented versions. It can be used in computer vision tasks such as automatic classification, deep learning experiments and comparative studies between wild and farmed fish.  
 
